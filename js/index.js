@@ -1,8 +1,8 @@
 // Prevent us from attempting to use variables
 // that are not declared
 "use strict"
-
-let healthPoints = 5;
+/*
+let healthPoints = 10;
 
 if (healthPoints >= 10) {
     console.log("Hero is healthy.");
@@ -11,3 +11,4 @@ if (healthPoints >= 10) {
 } else {
     console.log("Hero is close to death.");
 }
+    */
